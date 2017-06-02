@@ -1,1 +1,1 @@
-# icinstallator
+# icinstallator - Пакет простого GUI инсталятора для Linux/Unix систем.
